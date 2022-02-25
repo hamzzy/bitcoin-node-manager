@@ -1,4 +1,4 @@
-# A mini Bitcoin node Mnager
+# A mini Bitcoin node Manager
 
 ## Tools
 - fast-api
